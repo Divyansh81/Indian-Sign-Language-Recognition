@@ -1,0 +1,6 @@
+ISL_Data_Extracted/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+*.docx
+*.keras
